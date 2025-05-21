@@ -76,3 +76,4 @@ If the user interrupts with a keyboard signal (like Ctrl+C), the chatbot catches
 
 # output
 
+<img width="709" alt="Image" src="https://github.com/user-attachments/assets/5e603633-6111-470b-841f-811fc5770f1c" />
